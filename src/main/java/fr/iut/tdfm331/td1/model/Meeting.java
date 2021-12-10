@@ -5,7 +5,8 @@ import java.util.List;
 /**
  * Model object representing a Meeting
  */
-public class Meeting {
+public
+class Meeting {
 
     private final String objectMeeting;
     private final String meetingRoom;
