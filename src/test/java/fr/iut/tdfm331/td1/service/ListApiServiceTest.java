@@ -27,7 +27,6 @@ public class ListApiServiceTest {
     /**
      * Test to check if list of Meeting is ∞correctly generated
      */
-
     @Test
     public void getListMeetingWithSuccess() {
         List<Meeting> listMeetings = service.getListMeetings();
