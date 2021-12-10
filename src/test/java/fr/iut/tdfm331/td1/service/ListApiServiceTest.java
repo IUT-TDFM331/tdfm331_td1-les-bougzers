@@ -46,6 +46,8 @@ public class ListApiServiceTest {
 
     }
 
+    /CHIEN
+
     /**
      * Test to check if a new Meeting object is correctly added to the list
      */
