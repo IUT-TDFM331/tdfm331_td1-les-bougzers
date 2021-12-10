@@ -45,7 +45,6 @@ public class ListApiServiceTest {
         assertThat(listEmployees, IsIterableContainingInAnyOrder.containsInAnyOrder(expectedListEmployees.toArray()));
 
     }
-    .ZFqzff
 
     /**
      * Test to check if a new Meeting object is correctly added to the list
